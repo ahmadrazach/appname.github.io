@@ -38,7 +38,7 @@ features                                  :
     description                           : 1 Have access to a number of stock market exchanges like NYSE, NASDAQ and much more.<br> 2 Stock market data is ethier real-time data or delayed.<br> 3 Create a stock market watch list and import the data to your smart watch with only a few clicks.
     fontawesome_icon_name                 : magic
     
-  - title                                 : #2
+  - title                                 : HOW TO USE IT
     description                           : <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY"></iframe>
     fontawesome_icon_name                 : #mobile
 
